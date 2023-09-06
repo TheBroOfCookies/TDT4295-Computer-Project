@@ -8,14 +8,14 @@
   )
 
 
-  (sheet (at 27.94 29.21) (size 55.88 31.75) (fields_autoplaced)
+  (sheet (at 29.21 25.4) (size 71.12 34.29) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
-    (uuid 4498869b-c83d-4d8f-b845-a4e73b4656a4)
-    (property "Sheetname" "PCB" (at 27.94 28.4984 0)
+    (uuid 2f5e5303-1176-466f-800a-96bac7c62873)
+    (property "Sheetname" "PSU" (at 29.21 24.6884 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "PCB.kicad_sch" (at 27.94 61.5446 0)
+    (property "Sheetfile" "PSU.kicad_sch" (at 29.21 60.2746 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances

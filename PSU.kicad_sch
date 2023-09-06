@@ -1286,7 +1286,7 @@
     (pin "2" (uuid ee068a27-7101-4c70-b675-541aa66e1186))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "L2") (unit 1)
         )
       )
@@ -1312,7 +1312,7 @@
     (pin "2" (uuid 196c3a67-7bdb-4c43-a898-b5452549f903))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "C15") (unit 1)
         )
       )
@@ -1338,7 +1338,7 @@
     (pin "2" (uuid 37fc6764-d977-4bbd-bd53-e1070bdb785c))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "C12") (unit 1)
         )
       )
@@ -1364,7 +1364,7 @@
     (pin "2" (uuid 88a11d90-2665-462d-9201-5dcd010d506b))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "C6") (unit 1)
         )
       )
@@ -1390,7 +1390,7 @@
     (pin "2" (uuid 3deaba70-2214-48f7-a11e-32791a2ea34e))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "C17") (unit 1)
         )
       )
@@ -1416,7 +1416,7 @@
     (pin "2" (uuid e4407fcc-e722-4603-a7e1-3c597fe6648d))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "C8") (unit 1)
         )
       )
@@ -1442,7 +1442,7 @@
     (pin "2" (uuid 138f1412-b07e-4b37-bc9b-3db256192bcc))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "C4") (unit 1)
         )
       )
@@ -1468,7 +1468,7 @@
     (pin "2" (uuid 1b96ec96-56a1-4dc7-bd99-4c29049de64c))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "C2") (unit 1)
         )
       )
@@ -1493,7 +1493,7 @@
     (pin "1" (uuid 5dcd5878-8d1d-42d0-bf5e-2ee73b98cd0f))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "#PWR01") (unit 1)
         )
       )
@@ -1518,7 +1518,7 @@
     (pin "1" (uuid d7c76772-6b21-4f01-89e0-7d3325104e2f))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "#PWR04") (unit 1)
         )
       )
@@ -1544,7 +1544,7 @@
     (pin "2" (uuid e1954a2e-7391-4283-9c7d-94e5bdb21df3))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "C9") (unit 1)
         )
       )
@@ -1570,7 +1570,7 @@
     (pin "2" (uuid 49497106-5426-4be7-b898-5764dd9e9068))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "C11") (unit 1)
         )
       )
@@ -1611,7 +1611,7 @@
     (pin "9" (uuid 8c97ee10-c32c-4cd3-9b38-2444e032401c))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "U2") (unit 1)
         )
       )
@@ -1637,7 +1637,7 @@
     (pin "2" (uuid 4a668ab1-6e25-4321-b9b3-0965be8d926e))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "L1") (unit 1)
         )
       )
@@ -1662,7 +1662,7 @@
     (pin "1" (uuid 6d77d0b2-07c3-4f2f-adff-a45536d9ef4b))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "#PWR02") (unit 1)
         )
       )
@@ -1688,7 +1688,7 @@
     (pin "2" (uuid 884a2ed6-9ff2-44e8-917e-8c6d1ced3bd3))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "C16") (unit 1)
         )
       )
@@ -1714,7 +1714,7 @@
     (pin "2" (uuid e252c66b-c4b4-4457-9d7c-cb2ea9b8521b))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "R1") (unit 1)
         )
       )
@@ -1740,7 +1740,7 @@
     (pin "2" (uuid a08ed080-edf4-4f86-a414-8c28854d2778))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "C10") (unit 1)
         )
       )
@@ -1765,7 +1765,7 @@
     (pin "1" (uuid 7dcbac2e-0d9a-4ddd-aa35-b9f4671f11c6))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "#PWR03") (unit 1)
         )
       )
@@ -1791,7 +1791,7 @@
     (pin "2" (uuid c4f89514-fd88-40aa-a306-1ca3f28fb3a2))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "C14") (unit 1)
         )
       )
@@ -1830,7 +1830,7 @@
     (pin "9" (uuid 273aeb1b-20f7-47df-8af5-f9ed5ea63d40))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "U1") (unit 1)
         )
       )
@@ -1856,7 +1856,7 @@
     (pin "2" (uuid b6bdc893-791a-48a5-886c-20db11da5a69))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "C3") (unit 1)
         )
       )
@@ -1882,7 +1882,7 @@
     (pin "2" (uuid bc3c64a5-4158-48b8-b7f3-8f9aaf79d4d4))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "L3") (unit 1)
         )
       )
@@ -1908,7 +1908,7 @@
     (pin "2" (uuid 29ed0f22-be4b-4c77-96ea-1dc507935f82))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "C7") (unit 1)
         )
       )
@@ -1934,7 +1934,7 @@
     (pin "2" (uuid c780fd29-4d9f-4fcd-b57f-bbb2571fe0d3))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "C5") (unit 1)
         )
       )
@@ -1960,7 +1960,7 @@
     (pin "2" (uuid 4b674abd-932d-4987-ae39-883f0f7cacd5))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "R2") (unit 1)
         )
       )
@@ -1986,7 +1986,7 @@
     (pin "2" (uuid 12730a94-8b0e-4289-9256-3753cf020f27))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "C1") (unit 1)
         )
       )
@@ -2011,7 +2011,7 @@
     (pin "1" (uuid f4e5cdcc-dec5-428e-9bd4-5a7b4f4bcb21))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "#PWR05") (unit 1)
         )
       )
@@ -2037,7 +2037,7 @@
     (pin "2" (uuid 7c59fdd1-8d3a-4f05-a7f1-8a4938e69968))
     (instances
       (project "GuitarZero"
-        (path "/fba50eda-8593-4456-af98-ff56fd418a76/4498869b-c83d-4d8f-b845-a4e73b4656a4"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"
           (reference "C13") (unit 1)
         )
       )
