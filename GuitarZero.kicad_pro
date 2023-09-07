@@ -334,6 +334,10 @@
     [
       "7788bc9b-1e55-4835-b7d3-ea790efb8c61",
       "FPGA"
+    ],
+    [
+      "ae46c600-e32c-45ef-b9ae-c42d4bac8718",
+      "MCU"
     ]
   ],
   "text_variables": {}
