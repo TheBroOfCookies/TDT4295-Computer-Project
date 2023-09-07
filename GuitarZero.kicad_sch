@@ -25,6 +25,23 @@
     )
   )
 
+  (sheet (at 124.46 26.67) (size 76.2 30.48) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 7788bc9b-1e55-4835-b7d3-ea790efb8c61)
+    (property "Sheetname" "FPGA" (at 124.46 25.9584 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "FPGA.kicad_sch" (at 124.46 57.7346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "GuitarZero"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76" (page "3"))
+      )
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
   )
