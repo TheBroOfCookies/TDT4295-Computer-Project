@@ -338,6 +338,10 @@
     [
       "ae46c600-e32c-45ef-b9ae-c42d4bac8718",
       "MCU"
+    ],
+    [
+      "6bc5e847-f530-4979-a8e5-2803083ea6b2",
+      "FPGA Decoupler Capacitors"
     ]
   ],
   "text_variables": {}

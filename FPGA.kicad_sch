@@ -2204,4 +2204,21 @@
       )
     )
   )
+
+  (sheet (at 431.8 251.46) (size 119.38 44.45) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 6bc5e847-f530-4979-a8e5-2803083ea6b2)
+    (property "Sheetname" "FPGA Decoupler Capacitors" (at 431.8 250.7484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "FPGA_decoup_capsacitors.kicad_sch" (at 431.8 296.4946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "GuitarZero"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/7788bc9b-1e55-4835-b7d3-ea790efb8c61" (page "5"))
+      )
+    )
+  )
 )
