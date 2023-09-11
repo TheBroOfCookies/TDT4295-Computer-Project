@@ -2205,14 +2205,14 @@
     )
   )
 
-  (sheet (at 431.8 251.46) (size 119.38 44.45) (fields_autoplaced)
+  (sheet (at 434.34 242.57) (size 106.68 48.26) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
-    (uuid 6bc5e847-f530-4979-a8e5-2803083ea6b2)
-    (property "Sheetname" "FPGA Decoupler Capacitors" (at 431.8 250.7484 0)
+    (uuid 0a372d92-319a-4f3e-ac97-09e6f5d1152d)
+    (property "Sheetname" "FPGA Decoupler Capacitors" (at 434.34 241.8584 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "FPGA_decoup_capsacitors.kicad_sch" (at 431.8 296.4946 0)
+    (property "Sheetfile" "FPGA_decoup_capacitors.kicad_sch" (at 434.34 291.4146 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
