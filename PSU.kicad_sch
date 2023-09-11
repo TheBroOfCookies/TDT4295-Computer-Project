@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Power Supply Unit")
+    (date "2023-09-11")
+    (rev "0")
+  )
+
   (lib_symbols
     (symbol "Device:C" (pin_numbers hide) (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 0.635 2.54 0)
@@ -1362,11 +1368,11 @@
     (uuid feaa22fc-74bd-4dcd-8583-704a23495922)
   )
 
-  (hierarchical_label "+3.3V" (shape input) (at 241.3 129.54 90) (fields_autoplaced)
+  (hierarchical_label "+3.3V" (shape output) (at 241.3 129.54 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 6c266f14-bf01-414b-9d92-4db5041472a1)
   )
-  (hierarchical_label "+1V8" (shape input) (at 63.5 128.27 90) (fields_autoplaced)
+  (hierarchical_label "+1V8" (shape output) (at 63.5 128.27 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 843543e3-4ad3-402a-b77f-709e069fddca)
   )
@@ -1377,11 +1383,11 @@
       (effects (font (size 1.27 1.27) italic) (justify right))
     )
   )
-  (hierarchical_label "+3.3VA" (shape input) (at 267.97 129.54 90) (fields_autoplaced)
+  (hierarchical_label "+3.3VA" (shape output) (at 267.97 129.54 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid d631eee5-c975-4ff2-bf57-e060b2d3d086)
   )
-  (hierarchical_label "+1V0" (shape input) (at 233.68 48.26 90) (fields_autoplaced)
+  (hierarchical_label "+1V0" (shape output) (at 233.68 48.26 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid f3932841-dc2e-49aa-96ba-a6e3f9234476)
   )
