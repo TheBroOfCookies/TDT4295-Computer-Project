@@ -355,11 +355,11 @@
       )
     )
   )
-  (symbol "SpiFlashPlaceholder" (in_bom yes) (on_board yes)
+  (symbol "S25FL127S" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "" (at -7.62 0 0)
+    (property "Value" "S25FL127S" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at -7.62 0 0)
@@ -368,13 +368,13 @@
     (property "Datasheet" "" (at -7.62 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "SpiFlashPlaceholder_0_1"
+    (symbol "S25FL127S_0_1"
       (rectangle (start -16.51 3.81) (end 16.51 -7.62)
         (stroke (width 0) (type default))
         (fill (type none))
       )
     )
-    (symbol "SpiFlashPlaceholder_1_1"
+    (symbol "S25FL127S_1_1"
       (pin input line (at -16.51 1.27 0) (length 2.54)
         (name "S#" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
