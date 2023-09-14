@@ -2122,8 +2122,8 @@
     (property "Datasheet" "~" (at 259.08 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 88e6b065-d0eb-48e3-b94d-b48fbb64fe39))
-    (pin "2" (uuid 5379a2eb-9d2f-4cb2-aabe-fd0e96b7ba91))
+    (pin "1" (uuid bce5ce82-242b-426b-b395-7f42fd8e8817))
+    (pin "2" (uuid 70c8d439-adac-43b4-b264-2ca126da68f0))
     (instances
       (project "GuitarZero"
         (path "/fba50eda-8593-4456-af98-ff56fd418a76/2f5e5303-1176-466f-800a-96bac7c62873"

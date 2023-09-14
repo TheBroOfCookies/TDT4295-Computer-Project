@@ -800,10 +800,11 @@
     (uuid f65a7a88-a8cd-4ff6-a7e9-2e5041ee4cbf)
   )
 
-  (label "AN0002: Fig 2.1" (at 193.04 91.44 0) (fields_autoplaced)
+  (text "AN0002: Fig 2.1" (at 193.04 91.44 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 0ff44cc7-ba88-4fd5-bc84-1219e289b0ae)
+    (uuid 2b4742fb-8925-4106-9ded-59f2b929b2dc)
   )
+
   (label "AN0002: Fig 2.2" (at 142.24 146.05 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 63b56fec-b8d9-44e6-8c7d-39eaed436c2d)
@@ -941,7 +942,7 @@
           (reference "#PWR01") (unit 1)
         )
         (path "/fba50eda-8593-4456-af98-ff56fd418a76/ae46c600-e32c-45ef-b9ae-c42d4bac8718"
-          (reference "#PWR034") (unit 1)
+          (reference "#PWR0102") (unit 1)
         )
       )
     )
@@ -950,7 +951,7 @@
   (symbol (lib_id "power:+3.3V") (at 223.52 83.82 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 519f9a31-bdcf-48e2-b77e-24f2d55b5e80)
-    (property "Reference" "#PWR033" (at 223.52 87.63 0)
+    (property "Reference" "#PWR0101" (at 223.52 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (at 223.52 78.74 0)
@@ -966,7 +967,7 @@
     (instances
       (project "GuitarZero"
         (path "/fba50eda-8593-4456-af98-ff56fd418a76/ae46c600-e32c-45ef-b9ae-c42d4bac8718"
-          (reference "#PWR033") (unit 1)
+          (reference "#PWR0101") (unit 1)
         )
       )
     )
