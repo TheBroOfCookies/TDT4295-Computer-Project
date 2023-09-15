@@ -342,6 +342,10 @@
     [
       "0a372d92-319a-4f3e-ac97-09e6f5d1152d",
       "FPGA Decoupler Capacitors"
+    ],
+    [
+      "17583736-1e43-4d1e-aeda-75c9cd3f21c5",
+      "DAC"
     ]
   ],
   "text_variables": {}

@@ -1273,6 +1273,23 @@
     )
   )
 
+  (sheet (at 198.12 69.85) (size 55.88 20.32) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 17583736-1e43-4d1e-aeda-75c9cd3f21c5)
+    (property "Sheetname" "DAC" (at 198.12 69.1384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "DAC.kicad_sch" (at 198.12 90.7546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "GuitarZero"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76" (page "6"))
+      )
+    )
+  )
+
   (sheet (at 55.88 25.4) (size 33.02 34.29) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
