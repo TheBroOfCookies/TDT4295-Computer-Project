@@ -3960,6 +3960,31 @@
     )
   )
 
+  (symbol (lib_id "power:PWR_FLAG") (at 91.44 182.88 90) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 58a56f31-7ca4-488e-b4a0-7195aa3ccfe9)
+    (property "Reference" "#FLG04" (at 89.535 182.88 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "PWR_FLAG" (at 87.63 182.88 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "" (at 91.44 182.88 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 91.44 182.88 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid c216c4aa-c3a1-4e79-8222-11e9c2bea122))
+    (instances
+      (project "GuitarZero"
+        (path "/fba50eda-8593-4456-af98-ff56fd418a76/7788bc9b-1e55-4835-b7d3-ea790efb8c61"
+          (reference "#FLG04") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:+1V8") (at 232.41 217.17 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6523dcb5-75b2-4b1c-a5e2-afad3a6068c0)
