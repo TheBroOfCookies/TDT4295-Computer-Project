@@ -3567,7 +3567,7 @@
     (property "Value" "S25FL127S" (at 85.09 66.04 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.81mm" (at 77.47 72.39 0)
+    (property "Footprint" "Package_SO:SOIC-8W_5.3x5.3mm_P1.27mm" (at 77.47 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 77.47 72.39 0)
