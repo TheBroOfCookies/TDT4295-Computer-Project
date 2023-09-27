@@ -5523,7 +5523,7 @@
     (property "Value" "FPGA_JTAG_Debug" (at 177.8 217.17 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical" (at 180.34 232.41 0)
+    (property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_2x07_P2.00mm_Vertical" (at 180.34 232.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 180.34 232.41 0)
