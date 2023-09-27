@@ -1245,7 +1245,7 @@
     (stroke (width 0) (type default))
     (uuid cf4c4acd-0e10-4c5d-ae00-3781f582d4fd)
   )
-  (wire (pts (xy 203.2 135.89) (xy 166.37 135.89))
+  (wire (pts (xy 203.2 135.89) (xy 240.03 135.89))
     (stroke (width 0) (type default))
     (uuid d2496084-470a-4310-82f5-a33ab6095383)
   )
