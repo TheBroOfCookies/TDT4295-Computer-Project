@@ -2262,11 +2262,11 @@
     (property "Datasheet" " ~" (at 86.36 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8a7e5818-2270-47c2-ade0-8931bdcee059))
-    (pin "2" (uuid 0e8fdf7a-761b-4b2c-a688-4d2dfec2e07f))
-    (pin "3" (uuid 4e5f3f69-1164-4bdf-a7a8-6bfcd1a9f4fc))
-    (pin "4" (uuid 985786ac-fcc9-463d-b711-900824990d96))
-    (pin "5" (uuid 37bc6b3b-6854-41f6-afe8-58e898699b30))
+    (pin "1" (uuid 49bf1b37-16aa-4a6b-854b-5af5b55e4ed0))
+    (pin "2" (uuid 48e9c661-d724-4636-95db-db03559f6cd9))
+    (pin "3" (uuid 1d97c23a-f970-4ae2-ae2e-fbe20d1ea3fb))
+    (pin "4" (uuid 07323be4-e0f9-454d-ac41-4f196c7d79fe))
+    (pin "5" (uuid 13f12b15-c0d8-47fa-b5bf-6dee165e7523))
     (instances
       (project "GuitarZero"
         (path "/fba50eda-8593-4456-af98-ff56fd418a76"
